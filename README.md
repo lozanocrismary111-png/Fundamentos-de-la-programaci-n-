@@ -7,7 +7,7 @@ Programa que calcula el promedio de dos notas parciales mediante una función qu
 ## reserva_cine.py.py
 Programa que simula la reserva de asientos en una sala de cine representada como una matriz de 3 filas por 4 columnas. El usuario ingresa la fila y columna del asiento que desea reservar, el programa lo marca dentro de la matriz y muestra el estado completo de la sala utilizando bucles anidados para recorrer filas y columnas.
 
-## Ejercicio de Funciones en Python
+## Tarea semana 14
 
 **Descripción del problema:**
 Este programa resuelve un problema sencillo de la vida real: calcular el doble 
