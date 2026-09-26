@@ -23,3 +23,20 @@ la palabra clave `return` y se muestra en pantalla usando `print`.
 - Parámetros: `numero` (valor a multiplicar), `opcion` (texto "doble" o "triple")
 - Retorno: el resultado del cálculo
 - Llamada a la función: dentro de `if __name__ == "__main__":`
+
+## Tarea semana 15
+
+Programa en Python que utiliza un diccionario para almacenar y gestionar contactos, donde el nombre es la clave y el número de teléfono es el valor.
+
+Descripción
+
+Este programa resuelve el problema de organizar los contactos de una persona. Permite:
+
+Insertar nuevos contactos
+Mostrar todos los contactos guardados
+Buscar el teléfono de un contacto específico
+Eliminar un contacto
+Recorrer la agenda completa
+Estructura de datos utilizada
+
+Se usa un diccionario (dict), ya que cada nombre (clave) debe estar asociado a un único número de teléfono (valor), y el diccionario permite acceder a esa información de forma directa y eficiente.
